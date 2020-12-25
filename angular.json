@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angularGoogleMaps"
+  "defaultProject": "angularGoogleMaps",
+  "cli": {
+    "analytics": "8c5e87f3-8df9-4914-a954-075ca7e503ce"
+  }
 }
